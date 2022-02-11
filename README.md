@@ -1,2 +1,2 @@
 # AppleInternal-Apps
-appleInternal
+Thanks by Apple and iGeekOS
